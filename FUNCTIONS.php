@@ -1,8 +1,8 @@
 <?php
 
-	namespace Sable;
+	namespace public_html;
 
-	use Connection;
+	use Integration\Connection;
 	use Zoho;
 
 	class FUNCTIONS
