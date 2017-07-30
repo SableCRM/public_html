@@ -1,0 +1,14 @@
+[30-Mar-2017 09:36:02 America/New_York] PHP Fatal error:  SoapClient::SoapClient(): Invalid parameters in /home2/sablrcrmpro/public_html/test/adc.test/adc.soap.php on line 9
+[30-Mar-2017 09:36:02 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [Client] SoapClient::SoapClient(): Invalid parameters in /home2/sablrcrmpro/public_html/test/adc.test/adc.soap.php:9
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/adc.test/adc.soap.php(9): SoapClient->SoapClient('', '')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/adc.test/adc.soap.php on line 9
+[30-Mar-2017 09:36:31 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home2/sablrcrmpro/public_html/test/adc.test' : Document is empty
+ in /home2/sablrcrmpro/public_html/test/adc.test/adc.soap.php on line 9
+[30-Mar-2017 09:36:31 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home2/sablrcrmpro/public_html/test/adc.test' : Document is empty
+ in /home2/sablrcrmpro/public_html/test/adc.test/adc.soap.php:9
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/adc.test/adc.soap.php(9): SoapClient->SoapClient('', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/adc.test/adc.soap.php on line 9

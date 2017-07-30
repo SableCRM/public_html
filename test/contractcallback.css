@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+#agreement-generating {
+    font-family: 'Lato', serif;
+    color: #808080;
+    font-size: 22.5px;
+    text-align: center;
+    width: 320px;
+    height: 160px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -160px;
+    margin-top: -80px;
+}
+
+#agreement-generating i {
+    font-size: 50px;
+    display: inline-block;
+    color: #993366;
+    animation-name: spin;
+    animation-duration: 3000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}

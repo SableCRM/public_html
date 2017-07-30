@@ -1,0 +1,49 @@
+[26-Apr-2017 20:35:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'creditcheck\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 13
+[26-Apr-2017 20:43:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 17
+[26-Apr-2017 20:52:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 28
+[26-Apr-2017 20:53:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 28
+[26-Apr-2017 21:12:06 America/New_York] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 10
+[26-Apr-2017 21:12:06 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 10
+[26-Apr-2017 21:13:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 31
+[26-Apr-2017 21:14:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 31
+[26-Apr-2017 21:14:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 31
+[26-Apr-2017 21:43:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\InvalidArgumentException' not found in /home2/sablrcrmpro/public_html/test/creditcheck/app/credit/credit.php:98
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/creditcheck/app/credit/credit.php(40): credit\credit->verifyUsername(NULL)
+#1 /home2/sablrcrmpro/public_html/test/creditcheck/app/credit/pullNewCredit.php(16): credit\credit->__construct(Array)
+#2 /home2/sablrcrmpro/public_html/test/creditcheck/index.php(31): credit\pullNewCredit->__construct(Array)
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/app/credit/credit.php on line 98
+[26-Apr-2017 21:51:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 33
+[26-Apr-2017 21:58:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 31
+[26-Apr-2017 21:58:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/test/creditcheck/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/creditcheck/index.php on line 31

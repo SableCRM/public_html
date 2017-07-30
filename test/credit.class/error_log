@@ -1,0 +1,28 @@
+[26-Apr-2017 18:08:27 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid datatype, expecting array of at least 1 parameter in /home2/sablrcrmpro/public_html/test/credit.class/credit.php:42
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/credit.class/credit.php(273): credit->__construct(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/credit.class/credit.php on line 42
+[26-Apr-2017 18:08:54 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid datatype, expecting array of at least 1 parameter in /home2/sablrcrmpro/public_html/test/credit.class/credit.php:42
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/credit.class/credit.php(273): credit->__construct(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/credit.class/credit.php on line 42
+[26-Apr-2017 18:09:40 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Required field Credit Bureau cannot be empty. in /home2/sablrcrmpro/public_html/test/credit.class/credit.php:50
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/credit.class/credit.php(28): credit->verifyBureau(NULL)
+#1 /home2/sablrcrmpro/public_html/test/credit.class/credit.php(273): credit->__construct(Array)
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/credit.class/credit.php on line 50
+[26-Apr-2017 18:10:08 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Required field Credit Bureau cannot be empty. in /home2/sablrcrmpro/public_html/test/credit.class/credit.php:50
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/credit.class/credit.php(28): credit->verifyBureau(NULL)
+#1 /home2/sablrcrmpro/public_html/test/credit.class/credit.php(273): credit->__construct(Array)
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/credit.class/credit.php on line 50
+[26-Apr-2017 18:10:51 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Required field Credit Bureau cannot be empty. in /home2/sablrcrmpro/public_html/test/credit.class/credit.php:50
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/credit.class/credit.php(28): credit->verifyBureau(NULL)
+#1 /home2/sablrcrmpro/public_html/test/credit.class/credit.php(273): credit->__construct(Array)
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/credit.class/credit.php on line 50

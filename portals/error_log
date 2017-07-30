@@ -1,0 +1,452 @@
+[11-Mar-2017 20:04:52 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php on line 18
+[11-Mar-2017 20:05:01 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:05:01 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:05:01 America/Chicago] PHP Warning:  include(): Failed opening 'modules/personal-info.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:05:01 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:05:01 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:05:01 America/Chicago] PHP Warning:  include(): Failed opening 'modules/change-password.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:05:22 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:05:22 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:05:22 America/Chicago] PHP Warning:  include(): Failed opening 'modules/personal-info.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:05:22 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:05:22 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:05:22 America/Chicago] PHP Warning:  include(): Failed opening 'modules/change-password.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:19:49 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php on line 18
+[11-Mar-2017 20:31:12 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:31:12 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:31:12 America/Chicago] PHP Warning:  include(): Failed opening 'modules/personal-info.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:31:12 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:31:12 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:31:12 America/Chicago] PHP Warning:  include(): Failed opening 'modules/change-password.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:46:50 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:46:50 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:46:50 America/Chicago] PHP Warning:  include(): Failed opening 'modules/personal-info.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:46:50 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:46:50 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:46:50 America/Chicago] PHP Warning:  include(): Failed opening 'modules/change-password.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:47:42 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:47:42 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:47:42 America/Chicago] PHP Warning:  include(): Failed opening 'modules/personal-info.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:47:42 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:47:42 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:47:42 America/Chicago] PHP Warning:  include(): Failed opening 'modules/change-password.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:47:59 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:47:59 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:47:59 America/Chicago] PHP Warning:  include(): Failed opening 'modules/personal-info.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:47:59 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:47:59 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:47:59 America/Chicago] PHP Warning:  include(): Failed opening 'modules/change-password.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:48:08 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:48:08 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:48:08 America/Chicago] PHP Warning:  include(): Failed opening 'modules/personal-info.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:48:08 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:48:08 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:48:08 America/Chicago] PHP Warning:  include(): Failed opening 'modules/change-password.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:49:05 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:49:05 America/Chicago] PHP Warning:  include(modules/personal-info.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:49:05 America/Chicago] PHP Warning:  include(): Failed opening 'modules/personal-info.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 65
+[11-Mar-2017 20:49:05 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:49:05 America/Chicago] PHP Warning:  include(modules/change-password.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:49:05 America/Chicago] PHP Warning:  include(): Failed opening 'modules/change-password.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 66
+[11-Mar-2017 20:58:25 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php on line 18
+[13-Mar-2017 14:10:43 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[13-Mar-2017 14:10:55 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[13-Mar-2017 14:21:22 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[13-Mar-2017 14:21:29 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[13-Mar-2017 19:12:14 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[13-Mar-2017 19:12:20 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[13-Mar-2017 19:12:27 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 05:01:35 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 05:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 09:54:05 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 10:40:10 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/sablrcrmpro/public_html/portals/login.php on line 3
+[14-Mar-2017 10:40:10 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sablrcrmpro/public_html/portals/login.php:3) in /home2/sablrcrmpro/public_html/portals/login.php on line 5
+[14-Mar-2017 11:02:56 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 11:03:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 11:03:23 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 11:03:40 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 11:05:51 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 11:24:50 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[14-Mar-2017 18:10:37 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 01:24:25 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 01:24:32 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 01:24:40 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 01:24:45 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 09:14:04 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 09:14:08 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 09:14:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 09:18:29 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 09:18:35 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 09:18:39 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 10:21:19 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 10:21:21 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 10:21:26 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 10:21:27 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 10:34:26 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 10:41:03 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:41 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:44 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:44 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:44 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:45 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 12:23:45 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 13:14:09 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 13:36:10 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 20
+[15-Mar-2017 16:23:00 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:04 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:08 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:14 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:16 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:17 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:19 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:20 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:46 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:46 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:48 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:49 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:50 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:23:51 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:24:29 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:24:29 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:24:30 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:24:30 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:24:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:24:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:24:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:03 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:09 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:11 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:11 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:13 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:14 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:15 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:15 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:25:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:26:34 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 16:26:34 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 18:02:22 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 18:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 18:02:36 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 18:02:38 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 20:37:48 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 20:38:02 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 20:41:21 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 20:44:30 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 20:44:38 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 22:37:01 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 22:39:57 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 17
+[15-Mar-2017 22:56:16 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/portals/login.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/portals/login.php on line 20
+[16-Mar-2017 11:51:06 America/New_York] PHP Warning:  Attempt to assign property of non-object in /home2/sablrcrmpro/Integration/DATABASE_CONNECTION.php on line 19
+[16-Mar-2017 11:51:08 America/New_York] PHP Warning:  Attempt to assign property of non-object in /home2/sablrcrmpro/Integration/DATABASE_CONNECTION.php on line 19
+[16-Mar-2017 11:51:09 America/New_York] PHP Warning:  Attempt to assign property of non-object in /home2/sablrcrmpro/Integration/DATABASE_CONNECTION.php on line 19
+[03-Apr-2017 19:12:22 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 20
+[30-Apr-2017 23:26:15 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 30
+[30-Apr-2017 23:27:50 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/portals/profile-settings.php on line 30

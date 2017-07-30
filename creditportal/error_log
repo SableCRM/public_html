@@ -1,0 +1,972 @@
+[10-Mar-2017 12:11:36 America/Chicago] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 76
+[10-Mar-2017 12:11:36 America/Chicago] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 76
+[10-Mar-2017 12:11:36 America/Chicago] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 76
+[10-Mar-2017 13:07:04 America/Chicago] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 76
+[10-Mar-2017 13:07:04 America/Chicago] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 76
+[10-Mar-2017 13:07:04 America/Chicago] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 76
+[14-Mar-2017 13:03:46 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:56
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 56
+[14-Mar-2017 13:14:47 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 81
+[14-Mar-2017 13:14:47 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 81
+[14-Mar-2017 13:14:47 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 81
+[14-Mar-2017 13:43:09 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 13:43:09 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 13:43:09 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 14:00:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 14:00:13 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 14:00:13 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 14:04:27 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 14:04:27 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 14:04:27 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 16:56:40 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 16:56:40 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 16:56:40 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 16:57:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 16:57:13 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 16:57:13 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:58
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 58
+[14-Mar-2017 17:44:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:44:42 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:44:42 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:47:44 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:47:44 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:47:44 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:59:08 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:59:08 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 17:59:08 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:04:38 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:04:38 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:04:38 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:07:44 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:07:44 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:07:44 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:44:20 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:44:20 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:44:20 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:55:00 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:55:00 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 18:55:00 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 19:10:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 19:10:13 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 19:10:13 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 20:14:36 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 20:14:36 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[14-Mar-2017 20:14:36 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[15-Mar-2017 12:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[15-Mar-2017 12:13:10 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[15-Mar-2017 12:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[15-Mar-2017 12:13:28 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[15-Mar-2017 12:14:05 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[16-Mar-2017 15:05:05 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : AttValue: &quot; or ' expected in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : attributes construct error in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : Couldn't find end of Start Tag img line 83 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: img line 87 and div in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div&gt;&lt;img src=&quot;/img/logo2.jpg&quot;&gt;&lt;/div&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():                                      ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : AttValue: &quot; or ' expected in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : attributes construct error in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : Couldn't find end of Start Tag div line 89 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 93: parser error : Opening and ending tag mismatch: BR line 89 and BODY in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;/BODY&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():        ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 95: parser error : Opening and ending tag mismatch: BODY line 79 and HTML in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): &lt;/HTML&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string():        ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:42 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 98: parser error : Premature end of data in tag HTML line 1 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : AttValue: &quot; or ' expected in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : attributes construct error in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : Couldn't find end of Start Tag img line 83 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: img line 87 and div in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div&gt;&lt;img src=&quot;/img/logo2.jpg&quot;&gt;&lt;/div&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():                                      ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : AttValue: &quot; or ' expected in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : attributes construct error in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : Couldn't find end of Start Tag div line 89 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 93: parser error : Opening and ending tag mismatch: BR line 89 and BODY in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;/BODY&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():        ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 95: parser error : Opening and ending tag mismatch: BODY line 79 and HTML in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): &lt;/HTML&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string():        ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:51:48 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 98: parser error : Premature end of data in tag HTML line 1 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : AttValue: &quot; or ' expected in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : attributes construct error in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 83: parser error : Couldn't find end of Start Tag img line 83 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;img src=&quot;/img/top.jpg&quot; width=&quot;100%&quot; height=20&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():                                             ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: img line 87 and div in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div&gt;&lt;img src=&quot;/img/logo2.jpg&quot;&gt;&lt;/div&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():                                      ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : AttValue: &quot; or ' expected in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : attributes construct error in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 89: parser error : Couldn't find end of Start Tag div line 89 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;div class=b12_333399&gt;Login was not successful. Please confirm that you entered  in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():            ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 93: parser error : Opening and ending tag mismatch: BR line 89 and BODY in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;/BODY&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():        ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 95: parser error : Opening and ending tag mismatch: BODY line 79 and HTML in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): &lt;/HTML&gt; in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string():        ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[31-Mar-2017 11:52:13 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 98: parser error : Premature end of data in tag HTML line 1 in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 08:51:57 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[03-Apr-2017 08:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[03-Apr-2017 08:54:22 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[03-Apr-2017 09:01:46 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[03-Apr-2017 09:59:41 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 09:59:41 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 09:59:41 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 09:59:46 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 09:59:46 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 09:59:46 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 10:00:58 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 10:00:58 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 10:00:58 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 10:08:36 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 10:08:36 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[03-Apr-2017 10:08:36 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[04-Apr-2017 08:27:26 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[04-Apr-2017 08:27:26 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[04-Apr-2017 08:27:26 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[05-Apr-2017 14:22:23 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[05-Apr-2017 14:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[05-Apr-2017 14:24:39 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[05-Apr-2017 14:25:09 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[05-Apr-2017 14:25:19 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 13:50:20 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:15:56 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:16:01 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:16:19 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:16:22 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:16:23 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:16:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:16:41 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:52:25 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:52:37 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:52:39 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:54:10 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:54:14 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:54:19 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:54:46 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:54:52 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:54:58 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:56:00 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:58:35 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:59:05 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:59:41 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 15:59:46 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:00:40 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:00:56 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:06:47 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:06:48 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:06:57 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:09:25 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:09:27 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:09:32 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:09:59 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:10:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:10:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 16:37:59 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[06-Apr-2017 19:13:51 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[07-Apr-2017 15:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[07-Apr-2017 15:52:09 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[07-Apr-2017 17:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[07-Apr-2017 17:32:24 America/New_York] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/creditportal/index-new.php on line 15
+[07-Apr-2017 17:32:24 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/creditportal/index-new.php on line 15
+[07-Apr-2017 17:32:43 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[07-Apr-2017 17:32:49 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[07-Apr-2017 17:33:06 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[07-Apr-2017 18:03:00 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[09-Apr-2017 01:27:04 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[09-Apr-2017 12:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[09-Apr-2017 12:30:19 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 11:30:36 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 11:30:44 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 11:31:10 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 11:31:21 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 11:31:35 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:17:45 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:30:49 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:31:08 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:32:20 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:32:29 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:35:33 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:36:54 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:36:59 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:37:14 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:37:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:38:01 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:38:04 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:38:34 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:38:41 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:38:45 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:38:51 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:38:54 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:39:38 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:39:38 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:40:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:40:36 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:41:50 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:42:19 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 13:42:19 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 13:42:19 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 13:42:28 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 13:42:45 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:01:14 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:01:14 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:01:14 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:05:11 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:05:11 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:05:11 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:12:37 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:12:37 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:12:37 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:24:28 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:26:53 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:27:01 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:27:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:30:11 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:30:15 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:35:19 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:35:19 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:35:19 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:37:42 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:37:58 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:38:05 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:38:21 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[10-Apr-2017 16:38:47 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:38:47 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[10-Apr-2017 16:38:47 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 91
+[11-Apr-2017 10:33:32 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[11-Apr-2017 10:33:32 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[11-Apr-2017 10:33:32 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[11-Apr-2017 17:26:09 America/New_York] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/creditportal/index-new.php on line 15
+[11-Apr-2017 17:26:13 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/creditportal/index-new.php on line 15
+[12-Apr-2017 18:38:55 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[12-Apr-2017 18:40:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[12-Apr-2017 18:41:53 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[14-Apr-2017 14:41:28 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[14-Apr-2017 14:41:28 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[14-Apr-2017 14:41:28 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[16-Apr-2017 23:45:50 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[16-Apr-2017 23:45:50 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[16-Apr-2017 23:45:50 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 98
+[17-Apr-2017 09:12:23 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 100
+[17-Apr-2017 09:12:23 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 100
+[17-Apr-2017 09:12:23 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 100
+[17-Apr-2017 09:12:49 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 100
+[17-Apr-2017 09:12:49 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 100
+[17-Apr-2017 09:12:49 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 100
+[17-Apr-2017 10:20:13 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[17-Apr-2017 10:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[17-Apr-2017 10:20:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[17-Apr-2017 10:22:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[17-Apr-2017 10:32:10 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[17-Apr-2017 10:33:43 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(6): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[17-Apr-2017 12:06:51 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:66
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(40): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 66
+[21-Apr-2017 09:31:35 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:31:35 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:31:35 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:31:43 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:31:43 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:31:43 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:33:35 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:33:35 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:33:35 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:34:03 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:34:03 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:34:03 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:37:31 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:37:31 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 09:37:31 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 103
+[21-Apr-2017 12:16:21 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type Zoho as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 12
+[21-Apr-2017 12:18:33 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 44
+[21-Apr-2017 16:05:47 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:06:25 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:06:26 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:07:02 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:08:03 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:09:34 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:11:53 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:12:28 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:12:33 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:12:39 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:12:46 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:12:55 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:13:48 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:14:41 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:16:02 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:16:56 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:17:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:18:26 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:19:01 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:19:02 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:19:16 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:19:17 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:83
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(55): database('SELECT ZOHO_AUT...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 83
+[21-Apr-2017 16:34:49 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 16:34:49 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 16:34:49 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 16:45:39 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 16:45:39 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 16:45:39 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 16:48:40 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 16:48:40 America/New_York] PHP Warning:  simplexml_load_string(): Processing Error(WS Post Return) in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 16:48:40 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 120
+[21-Apr-2017 17:33:19 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:33:19 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:33:19 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:48:47 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:48:47 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:48:47 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:02 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:02 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:02 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:23 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:23 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:23 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:47 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:47 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:49:47 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:53:17 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:53:17 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:53:17 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:53:26 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:53:26 America/New_York] PHP Warning:  simplexml_load_string(): Could not review file in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[21-Apr-2017 17:53:26 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 123
+[24-Apr-2017 14:24:56 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[24-Apr-2017 14:25:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[24-Apr-2017 16:33:15 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[24-Apr-2017 16:33:30 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[24-Apr-2017 17:16:37 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[24-Apr-2017 20:12:49 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[24-Apr-2017 21:55:35 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[25-Apr-2017 09:34:30 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[25-Apr-2017 09:34:42 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[25-Apr-2017 09:35:10 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85
+[25-Apr-2017 14:14:24 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php:85
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck.php(21): database('SELECT HART_USE...', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck.php on line 85

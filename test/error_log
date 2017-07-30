@@ -1,0 +1,1003 @@
+[13-Mar-2017 14:53:32 America/New_York] PHP Warning:  Illegal string offset 'response' in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 25
+[13-Mar-2017 14:53:52 America/New_York] PHP Warning:  Illegal string offset 'response' in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 25
+[13-Mar-2017 14:55:13 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 24
+[13-Mar-2017 14:56:15 America/New_York] PHP Warning:  Illegal string offset 'response' in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 25
+[14-Mar-2017 04:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[14-Mar-2017 04:56:09 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[16-Mar-2017 00:33:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[16-Mar-2017 00:33:19 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[16-Mar-2017 00:35:54 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[20-Mar-2017 15:15:41 America/New_York] PHP Deprecated:  Non-static method Zoho::send() should not be called statically in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 31
+[20-Mar-2017 15:17:21 America/New_York] PHP Deprecated:  Non-static method Zoho::send() should not be called statically in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 31
+[20-Mar-2017 15:19:54 America/New_York] PHP Deprecated:  Non-static method Zoho::send() should not be called statically in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 31
+[20-Mar-2017 15:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function send() in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php:31
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/login.php(15): Zoho::GenerateToken('ainsley.clarke@...', 'Afc5446000', 'SableTokenTest', 'ZohoCRM/crmapi')
+#1 {main}
+  thrown in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 31
+[20-Mar-2017 15:43:49 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/sablrcrmpro/public_html/test/login.php on line 15
+[20-Mar-2017 15:44:07 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/sablrcrmpro/public_html/test/login.php on line 15
+[20-Mar-2017 16:03:41 America/New_York] PHP Warning:  preg_match(): No ending delimiter '=' found in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 33
+[20-Mar-2017 21:56:55 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[20-Mar-2017 21:57:11 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[20-Mar-2017 21:57:12 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[20-Mar-2017 21:57:13 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[20-Mar-2017 21:57:16 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[20-Mar-2017 21:57:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[20-Mar-2017 21:57:26 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[20-Mar-2017 21:57:28 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[21-Mar-2017 10:24:13 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[21-Mar-2017 14:50:26 America/New_York] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in /home2/sablrcrmpro/Integration/DATABASE_CONNECTION.php on line 33
+[21-Mar-2017 14:53:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_result() in /home2/sablrcrmpro/Integration/DATABASE_CONNECTION.php:33
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/commissions.php(38): Connect(Object(PDOStatement), Array, 'array')
+#1 {main}
+  thrown in /home2/sablrcrmpro/Integration/DATABASE_CONNECTION.php on line 33
+[21-Mar-2017 14:57:19 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home2/sablrcrmpro/Integration/DATABASE_CONNECTION.php on line 33
+[22-Mar-2017 09:59:52 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/zoho-api-test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/zoho-api-test.php on line 18
+[22-Mar-2017 20:53:22 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home2/sablrcrmpro/Integration/post.php:58
+Stack trace:
+#0 /home2/sablrcrmpro/Integration/post.php(58): SimpleXMLElement->__construct('')
+#1 /home2/sablrcrmpro/Integration/post.php(41): Post->ParseXml(false, 'array')
+#2 /home2/sablrcrmpro/public_html/test/docusign.php(521): Post->Post('APIVersion', '<soapenv:Envelo...', 'array')
+#3 {main}
+  thrown in /home2/sablrcrmpro/Integration/post.php on line 58
+[22-Mar-2017 21:04:17 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home2/sablrcrmpro/Integration/post.php:58
+Stack trace:
+#0 /home2/sablrcrmpro/Integration/post.php(58): SimpleXMLElement->__construct('')
+#1 /home2/sablrcrmpro/Integration/post.php(41): Post->ParseXml('', 'array')
+#2 /home2/sablrcrmpro/public_html/test/docusign.php(519): Post->Post('APIVersion', '<soapenv:Envelo...', 'array')
+#3 {main}
+  thrown in /home2/sablrcrmpro/Integration/post.php on line 58
+[22-Mar-2017 21:04:24 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home2/sablrcrmpro/Integration/post.php:58
+Stack trace:
+#0 /home2/sablrcrmpro/Integration/post.php(58): SimpleXMLElement->__construct('')
+#1 /home2/sablrcrmpro/Integration/post.php(41): Post->ParseXml('', 'array')
+#2 /home2/sablrcrmpro/public_html/test/docusign.php(519): Post->Post('APIVersion', '<soapenv:Envelo...', 'array')
+#3 {main}
+  thrown in /home2/sablrcrmpro/Integration/post.php on line 58
+[22-Mar-2017 21:07:42 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home2/sablrcrmpro/Integration/post.php:58
+Stack trace:
+#0 /home2/sablrcrmpro/Integration/post.php(58): SimpleXMLElement->__construct('')
+#1 /home2/sablrcrmpro/Integration/post.php(41): Post->ParseXml('', 'array')
+#2 /home2/sablrcrmpro/public_html/test/docusign.php(519): Post->Post('APIVersion', '<soapenv:Envelo...', 'array')
+#3 {main}
+  thrown in /home2/sablrcrmpro/Integration/post.php on line 58
+[22-Mar-2017 21:07:45 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home2/sablrcrmpro/Integration/post.php:58
+Stack trace:
+#0 /home2/sablrcrmpro/Integration/post.php(58): SimpleXMLElement->__construct('')
+#1 /home2/sablrcrmpro/Integration/post.php(41): Post->ParseXml('', 'array')
+#2 /home2/sablrcrmpro/public_html/test/docusign.php(519): Post->Post('APIVersion', '<soapenv:Envelo...', 'array')
+#3 {main}
+  thrown in /home2/sablrcrmpro/Integration/post.php on line 58
+[22-Mar-2017 21:17:11 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home2/sablrcrmpro/Integration/post.php:58
+Stack trace:
+#0 /home2/sablrcrmpro/Integration/post.php(58): SimpleXMLElement->__construct('')
+#1 /home2/sablrcrmpro/Integration/post.php(41): Post->ParseXml('', 'array')
+#2 /home2/sablrcrmpro/public_html/test/docusign.php(519): Post->Post('APIVersion', '<soapenv:Envelo...', 'array')
+#3 {main}
+  thrown in /home2/sablrcrmpro/Integration/post.php on line 58
+[23-Mar-2017 12:50:19 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'https://senti.monitronics.net/eContractAPIQADealer' in /home2/sablrcrmpro/public_html/test/docusign.php on line 571
+[23-Mar-2017 12:50:19 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'https://senti.monitronics.net/eContractAPIQADealer' in /home2/sablrcrmpro/public_html/test/docusign.php:571
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/docusign.php(571): SoapClient->SoapClient('https://senti.m...')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 571
+[23-Mar-2017 13:08:20 America/New_York] PHP Warning:  SoapHeader::SoapHeader() expects at least 2 parameters, 0 given in /home2/sablrcrmpro/public_html/test/docusign.php on line 581
+[23-Mar-2017 13:32:57 America/New_York] PHP Warning:  SoapHeader::SoapHeader() expects at least 2 parameters, 0 given in /home2/sablrcrmpro/public_html/test/docusign.php on line 583
+[23-Mar-2017 14:02:01 America/New_York] PHP Warning:  SoapClient::__call() expects at least 2 parameters, 1 given in /home2/sablrcrmpro/public_html/test/docusign.php on line 581
+[23-Mar-2017 14:02:29 America/New_York] PHP Warning:  SoapClient::__call() expects parameter 2 to be array, string given in /home2/sablrcrmpro/public_html/test/docusign.php on line 581
+[23-Mar-2017 14:02:56 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [a:InvalidSecurity] An error occurred when verifying security for the message. in /home2/sablrcrmpro/public_html/test/docusign.php:581
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/docusign.php(581): SoapClient->__call('APIVersion', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 581
+[23-Mar-2017 14:07:40 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [a:InvalidSecurity] An error occurred when verifying security for the message. in /home2/sablrcrmpro/public_html/test/docusign.php:581
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/docusign.php(581): SoapClient->__soapCall('APIVersion', Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 581
+[23-Mar-2017 14:08:34 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [a:InvalidSecurity] An error occurred when verifying security for the message. in /home2/sablrcrmpro/public_html/test/docusign.php:581
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/docusign.php(581): SoapClient->__soapCall('APIVersion', Array, NULL, Object(SoapHeader))
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 581
+[23-Mar-2017 14:09:43 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [a:InvalidSecurity] An error occurred when verifying security for the message. in /home2/sablrcrmpro/public_html/test/docusign.php:581
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/docusign.php(581): SoapClient->__soapCall('APIVersion', Array, NULL, Object(SoapHeader))
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 581
+[23-Mar-2017 14:10:27 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [a:InvalidSecurity] An error occurred when verifying security for the message. in /home2/sablrcrmpro/public_html/test/docusign.php:580
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/docusign.php(580): SoapClient->__soapCall('APIVersion', Array, NULL, Object(SoapHeader))
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 580
+[23-Mar-2017 14:27:47 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'https://mimasweb.monitronics.net/MIDI/MIDI.asmx' in /home2/sablrcrmpro/public_html/test/docusign.php on line 572
+[23-Mar-2017 14:27:47 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'https://mimasweb.monitronics.net/MIDI/MIDI.asmx' in /home2/sablrcrmpro/public_html/test/docusign.php:572
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/docusign.php(572): SoapClient->SoapClient('https://mimaswe...')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 572
+[23-Mar-2017 14:32:33 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home2/sablrcrmpro/public_html/test/docusign.php:587
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://mimasweb...', 'https://mimaswe...', 1, 0)
+#1 /home2/sablrcrmpro/public_html/test/docusign.php(587): SoapClient->__soapCall('GetWebServiceVe...', Array)
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 587
+[23-Mar-2017 14:33:17 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home2/sablrcrmpro/public_html/test/docusign.php:587
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://mimasweb...', 'https://mimaswe...', 1, 0)
+#1 /home2/sablrcrmpro/public_html/test/docusign.php(587): SoapClient->__soapCall('GetWebServiceVe...', Array)
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 587
+[23-Mar-2017 14:34:10 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home2/sablrcrmpro/public_html/test/docusign.php:587
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://mimasweb...', 'https://mimaswe...', 1, 0)
+#1 /home2/sablrcrmpro/public_html/test/docusign.php(587): SoapClient->__soapCall('GetWebServiceVe...', Array)
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 587
+[23-Mar-2017 15:32:06 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'https://senti.monitronics.net/eContractAPIUAT' in /home2/sablrcrmpro/public_html/test/docusign.php on line 575
+[23-Mar-2017 15:32:06 America/New_York] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'https://senti.monitronics.net/eContractAPIUAT' in /home2/sablrcrmpro/public_html/test/docusign.php:575
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/docusign.php(575): SoapClient->SoapClient('https://senti.m...')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 575
+[23-Mar-2017 15:33:33 America/New_York] PHP Warning:  SoapClient::__setSoapHeaders(): Invalid SOAP header in /home2/sablrcrmpro/public_html/test/docusign.php on line 587
+[23-Mar-2017 22:38:51 America/New_York] PHP Warning:  SoapHeader::SoapHeader() expects parameter 4 to be boolean, object given in /home2/sablrcrmpro/public_html/test/docusign.php on line 597
+[23-Mar-2017 22:41:18 America/New_York] PHP Warning:  SoapHeader::SoapHeader() expects parameter 4 to be boolean, object given in /home2/sablrcrmpro/public_html/test/docusign.php on line 597
+[24-Mar-2017 00:57:55 America/New_York] PHP Warning:  Illegal offset type in /home2/sablrcrmpro/public_html/test/docusign.php on line 598
+[24-Mar-2017 12:35:53 America/New_York] PHP Warning:  require_once(DATABASE-TEST.php.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/commissions.php on line 15
+[24-Mar-2017 12:35:53 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'DATABASE-TEST.php.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/test/commissions.php on line 15
+[24-Mar-2017 12:36:38 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 22
+[24-Mar-2017 12:36:38 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 22
+[24-Mar-2017 12:36:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php:29
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/commissions.php(44): Connect(Array, NULL, 'array')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 29
+[24-Mar-2017 12:40:23 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 22
+[24-Mar-2017 12:41:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php:29
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/commissions.php(44): Connect(Array, NULL, 'array')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 29
+[24-Mar-2017 12:50:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php:29
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/commissions.php(44): Connect(Array, NULL, 'array')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 29
+[24-Mar-2017 13:04:50 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, integer given in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 22
+[24-Mar-2017 13:06:05 America/New_York] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 21
+[24-Mar-2017 13:06:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php:22
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/commissions.php(46): Connect(Array, NULL, 'array')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 22
+[24-Mar-2017 13:06:46 America/New_York] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 21
+[24-Mar-2017 13:06:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php:22
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/commissions.php(46): Connect(Array, NULL, 'array')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/DATABASE-TEST.php on line 22
+[24-Mar-2017 16:24:04 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/commissions.php:48
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/commissions.php on line 48
+[25-Mar-2017 11:21:09 America/New_York] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home2/sablrcrmpro/public_html/test/docusign.php:595
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 595
+[25-Mar-2017 11:22:34 America/New_York] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home2/sablrcrmpro/public_html/test/docusign.php:595
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 595
+[25-Mar-2017 11:22:38 America/New_York] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home2/sablrcrmpro/public_html/test/docusign.php:595
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/docusign.php on line 595
+[25-Mar-2017 11:39:00 America/New_York] PHP Warning:  SoapClient::__soapCall() expects parameter 2 to be array, null given in /home2/sablrcrmpro/public_html/test/docusign.php on line 629
+[25-Mar-2017 14:04:21 America/New_York] PHP Warning:  require_once(../Integration/apiendpoints.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/docusign.php on line 71
+[25-Mar-2017 14:04:21 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../Integration/apiendpoints.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/test/docusign.php on line 71
+[11-Apr-2017 05:33:34 America/New_York] PHP Warning:  fopen(error.log): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 93
+[11-Apr-2017 05:33:34 America/New_York] PHP Warning:  filesize(): stat failed for error.log in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 94
+[11-Apr-2017 05:33:34 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 94
+[11-Apr-2017 05:33:34 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 95
+[11-Apr-2017 05:56:18 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 193
+[11-Apr-2017 05:58:52 America/New_York] PHP Warning:  fopen(eContract API for Dealers v2.pdf): failed to open stream: Success in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 92
+[11-Apr-2017 05:58:52 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 93
+[11-Apr-2017 05:58:52 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 94
+[11-Apr-2017 05:59:29 America/New_York] PHP Warning:  fopen(eContract API for Dealers v2.pdf): failed to open stream: Success in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 92
+[11-Apr-2017 05:59:29 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 93
+[11-Apr-2017 05:59:29 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 94
+[11-Apr-2017 06:01:19 America/New_York] PHP Warning:  fopen(eContract API for Dealers v2.pdf): failed to open stream: Success in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 92
+[11-Apr-2017 06:01:19 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 93
+[11-Apr-2017 06:01:19 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 94
+[11-Apr-2017 08:45:58 America/New_York] PHP Warning:  file_get_contents(pdf-to-byte.pdf): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 93
+[11-Apr-2017 12:22:03 America/New_York] PHP Fatal error:  Class FileUpload contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (ZohoActions::setReturnFormat, ZohoActions::setMethod) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 60
+[11-Apr-2017 12:39:40 America/New_York] PHP Fatal error:  Uncaught Error: Cannot call abstract method ZohoActions::setMethod() in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:100
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(215): FileUpload->setMethod('Contacts')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 100
+[11-Apr-2017 12:40:39 America/New_York] PHP Fatal error:  Uncaught Error: Cannot call abstract method ZohoActions::setReturnFormat() in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:93
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(216): FileUpload->setReturnFormat('xml')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 93
+[11-Apr-2017 12:42:04 America/New_York] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 126
+[11-Apr-2017 12:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Cannot call abstract method ZohoActions::setReturnFormat() in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:93
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(216): FileUpload->setReturnFormat('xml')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 93
+[11-Apr-2017 12:54:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'HttpInvalidParamException' not found in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:95
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(216): FileUpload->setReturnFormat('jerry')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 95
+[11-Apr-2017 12:57:25 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Format Type jerry, Selected in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:95
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(216): FileUpload->setReturnFormat('jerry')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 95
+[11-Apr-2017 13:02:41 America/New_York] PHP Fatal error:  Class FileUpload contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (ZohoActions::setModule) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 60
+[11-Apr-2017 14:13:40 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Method kill zone, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:114
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(298): FileUpload->setMethod('kill zone')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 114
+[11-Apr-2017 14:14:54 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Method jerry rig, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:114
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(62): FileUpload->setMethod('jerry rig')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(296): FileUpload->__construct('Potentials', 'jerry rig')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 114
+[11-Apr-2017 14:49:17 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:56
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(88): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(331): FileUpload->__construct('Potentials', 'getModules')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 56
+[11-Apr-2017 14:51:14 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:56
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(88): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(331): FileUpload->__construct('Potentials', 'getModules')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 56
+[11-Apr-2017 14:51:18 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:56
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(88): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(331): FileUpload->__construct('Potentials', 'getModules')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 56
+[11-Apr-2017 14:56:33 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:56
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(88): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(331): FileUpload->__construct('Potentials', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 56
+[11-Apr-2017 15:06:44 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:61
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(93): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(340): FileUpload->__construct('Potentials', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 61
+[11-Apr-2017 15:07:42 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:61
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(93): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(340): FileUpload->__construct('Potentials', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 61
+[11-Apr-2017 15:08:59 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:61
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(93): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(340): FileUpload->__construct('Potentials', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 61
+[11-Apr-2017 15:09:41 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:61
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(93): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(340): FileUpload->__construct('Potentials', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 61
+[11-Apr-2017 15:10:07 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module preavy, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:61
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(93): ZohoApi->setModule('preavy')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(340): FileUpload->__construct('preavy', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 61
+[11-Apr-2017 15:12:21 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:61
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(93): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(340): FileUpload->__construct('Potentials', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 61
+[11-Apr-2017 15:16:13 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Method jelly, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:70
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(93): ZohoApi->setMethod('jelly')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(343): FileUpload->__construct('Potentials', 'jelly')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 70
+[11-Apr-2017 15:17:25 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Format Type jugular, Selected in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:52
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(344): ZohoApi->setReturnFormat('jugular')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 52
+[11-Apr-2017 15:20:46 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module pudgy, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:62
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(94): ZohoApi->setModule('pudgy')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(344): FileUpload->__construct('pudgy', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 62
+[11-Apr-2017 15:21:20 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Potentials, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:62
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(94): ZohoApi->setModule('Potentials')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(344): FileUpload->__construct('Potentials', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 62
+[11-Apr-2017 15:23:03 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Module Calls, Selected For Zoho CRM in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:62
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(94): ZohoApi->setModule('Calls')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(344): FileUpload->__construct('Calls', 'uploadFile')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 62
+[11-Apr-2017 16:54:12 America/New_York] PHP Catchable fatal error:  Object of class CURLFile could not be converted to string in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 134
+[11-Apr-2017 16:55:39 America/New_York] PHP Catchable fatal error:  Object of class CURLFile could not be converted to string in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 133
+[12-Apr-2017 11:54:31 America/New_York] PHP Fatal error:  Uncaught Error: Invalid Number of Args, Function takes 1 Arg of Type string. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:168
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(391): GetModules->getModules()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 168
+[12-Apr-2017 13:25:22 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/test/oop_e-contract.php:191
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/oop_e-contract.php on line 191
+[12-Apr-2017 16:32:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:394) in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 20
+[12-Apr-2017 16:33:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:394) in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 20
+[12-Apr-2017 17:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 17
+[12-Apr-2017 17:29:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 17
+[12-Apr-2017 17:30:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 17
+[12-Apr-2017 17:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getPDFBytes() on null in /home2/sablrcrmpro/public_html/test/contractcallback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 17
+[12-Apr-2017 17:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getPDFBytes() on null in /home2/sablrcrmpro/public_html/test/contractcallback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 17
+[12-Apr-2017 17:37:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 17
+[12-Apr-2017 17:49:45 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "array" given in /home2/sablrcrmpro/eContractApi/src/StructType/GetContract.php:53
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/GetContract.php(29): StructType\GetContract->setEnvelopeID(Array)
+#1 /home2/sablrcrmpro/public_html/test/contractcallback.php(18): StructType\GetContract->__construct(Array)
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/GetContract.php on line 53
+[12-Apr-2017 17:59:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 20
+[12-Apr-2017 17:59:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 20
+[12-Apr-2017 17:59:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 20
+[12-Apr-2017 17:59:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 20
+[12-Apr-2017 18:59:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[12-Apr-2017 19:00:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[12-Apr-2017 19:33:16 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Method jelly, Selected For Zoho CRM. Please Use One Of getMyRecords, getRecords, getRecordById, getDeletedRecordIds, insertRecords, updateRecords, getSearchRecordsByPDC, deleteRecords, convertLead, getRelatedRecords, getFields, updateRelatedRecords, getUsers, uploadFile, delink, downloadFile, deleteFile, uploadPhoto, downloadPhoto, deletePhoto, getModules, searchRecords in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:91
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(32): ZohoApi->setMethod('jelly')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(164): ZohoApi->__construct('Info', 'jelly')
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(388): GetModules->__construct()
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 91
+[12-Apr-2017 19:36:45 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid Method jelly, Selected For Zoho CRM. Please Use One Of The Following Methods: <strong>getMyRecords, getRecords, getRecordById, getDeletedRecordIds, insertRecords, updateRecords, getSearchRecordsByPDC, deleteRecords, convertLead, getRelatedRecords, getFields, updateRelatedRecords, getUsers, uploadFile, delink, downloadFile, deleteFile, uploadPhoto, downloadPhoto, deletePhoto, getModules, searchRecords</strong> in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:91
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(32): ZohoApi->setMethod('jelly')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(164): ZohoApi->__construct('Info', 'jelly')
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(388): GetModules->__construct()
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 91
+[12-Apr-2017 19:38:56 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid method jelly, Selected for zoho CRM. Please use one Of the following methods: getMyRecords, getRecords, getRecordById, getDeletedRecordIds, insertRecords, updateRecords, getSearchRecordsByPDC, deleteRecords, convertLead, getRelatedRecords, getFields, updateRelatedRecords, getUsers, uploadFile, delink, downloadFile, deleteFile, uploadPhoto, downloadPhoto, deletePhoto, getModules, searchRecords in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:91
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(32): ZohoApi->setMethod('jelly')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(164): ZohoApi->__construct('Info', 'jelly')
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(388): GetModules->__construct()
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 91
+[12-Apr-2017 19:50:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setReturnFormat() on null in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:396
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 396
+[12-Apr-2017 19:51:29 America/New_York] PHP Fatal error:  Uncaught Error: Wrong parameters for InvalidArgumentException([string $message [, long $code [, Throwable $previous = NULL]]]) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:65
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(65): Exception->__construct('Invalid format ...', 'jumping', 'xml, json')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(396): ZohoApi->setReturnFormat('jumping')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 65
+[12-Apr-2017 19:57:01 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid module kouple, selected for Zoho CRM. Please use one of the following modules: Leads, Accounts, Contacts, Potentials, Campaigns, Cases, Solutions, Products, Price Books, Quotes, Invoices, Sales Orders, Vendors, Purchase Orders, Events, Tasks, Calls, Info in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:78
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(31): ZohoApi->setModule('kouple')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(119): ZohoApi->__construct('kouple', 'uploadFile')
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(388): FileUpload->__construct('kouple')
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 78
+[12-Apr-2017 19:58:54 America/New_York] PHP Fatal error:  Uncaught Error: Wrong parameters for InvalidArgumentException([string $message [, long $code [, Throwable $previous = NULL]]]) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:65
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(65): Exception->__construct('Invalid format ...', 'juggs', 'xml, json')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(396): ZohoApi->setReturnFormat('juggs')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 65
+[12-Apr-2017 20:01:55 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid format type juggs, selected. Plese use one of the following formats: xml, json in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:64
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(396): ZohoApi->setReturnFormat('juggs')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 64
+[12-Apr-2017 20:06:41 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid format type juggs, selected. Plese use one of the following formats: xml, json in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:64
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(405): ZohoApi->setReturnFormat('juggs')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 64
+[12-Apr-2017 20:06:46 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid format type juggs, selected. Plese use one of the following formats: xml, json in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:64
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(405): ZohoApi->setReturnFormat('juggs')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 64
+[12-Apr-2017 20:43:28 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid module jerry, selected for Zoho CRM. Please use one of the following modules: Leads, Accounts, Contacts, Potentials, Campaigns, Cases, Solutions, Products, Price Books, Quotes, Invoices, Sales Orders, Vendors, Purchase Orders, Events, Tasks, Calls, Info in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:78
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(31): ZohoApi->setModule('jerry')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(196): ZohoApi->__construct('jerry', 'getFields')
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(431): GetFields->__construct('jerry')
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 78
+[12-Apr-2017 20:44:02 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid module , selected for Zoho CRM. Please use one of the following modules: Leads, Accounts, Contacts, Potentials, Campaigns, Cases, Solutions, Products, Price Books, Quotes, Invoices, Sales Orders, Vendors, Purchase Orders, Events, Tasks, Calls, Info in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:78
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(31): ZohoApi->setModule('')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(196): ZohoApi->__construct('', 'getFields')
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(431): GetFields->__construct('')
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 78
+[12-Apr-2017 21:16:33 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:205
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(433): GetFields->getFields(2)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 205
+[12-Apr-2017 21:47:05 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:48:55 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:51:16 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:51:47 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields(0)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:53:24 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:54:37 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:55:39 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:55:58 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:57:19 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:57:22 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 21:58:00 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 22:01:53 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(449): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 22:04:26 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(443): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 22:05:24 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 22:05:30 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:206
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(437): GetFields->getFields()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 206
+[12-Apr-2017 22:08:55 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetFields. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:208
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(451): GetFields->getFields(3)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 208
+[12-Apr-2017 22:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:182
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(470): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 182
+[12-Apr-2017 22:36:13 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:182
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(470): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 182
+[12-Apr-2017 22:45:47 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:186
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(474): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 186
+[12-Apr-2017 22:48:48 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:186
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(475): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 186
+[12-Apr-2017 23:13:16 America/New_York] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 247
+[12-Apr-2017 23:15:09 America/New_York] PHP Warning:  sprintf(): Too few arguments in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 251
+[12-Apr-2017 23:15:09 America/New_York] PHP Fatal error:  Uncaught Error: Wrong parameters for Error([string $message [, long $code [, Throwable $previous = NULL]]]) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:251
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(251): Error->__construct('', 'username& passw...')
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(507): GenerateAuthtoken->generateAuthtoken()
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 251
+[12-Apr-2017 23:17:01 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 251
+[12-Apr-2017 23:17:45 America/New_York] PHP Fatal error:  Uncaught Error: Invalid username& password password entered, please try again later. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:251
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(507): GenerateAuthtoken->generateAuthtoken()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 251
+[12-Apr-2017 23:18:14 America/New_York] PHP Fatal error:  Uncaught Error: Invalid username & password password entered, please try again later. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:251
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(507): GenerateAuthtoken->generateAuthtoken()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 251
+[12-Apr-2017 23:18:41 America/New_York] PHP Fatal error:  Uncaught Error: Invalid username & password entered, please try again later. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:251
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(507): GenerateAuthtoken->generateAuthtoken()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 251
+[12-Apr-2017 23:19:20 America/New_York] PHP Fatal error:  Uncaught Error: Invalid password entered, please try again later. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:251
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(507): GenerateAuthtoken->generateAuthtoken('ainsley.clarke@...')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 251
+[12-Apr-2017 23:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:186
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(504): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 186
+[12-Apr-2017 23:27:22 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:186
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(505): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 186
+[13-Apr-2017 01:56:25 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 80
+[13-Apr-2017 02:08:55 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(547): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:09:23 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(546): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(546): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:19:25 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(546): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:25:10 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(546): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:25:17 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(546): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:28:02 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(546): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(546): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:39:07 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(558): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:42:59 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:43:00 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:43:00 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:43:00 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:45:10 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:45:10 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:45:11 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:45:11 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:49:19 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:49:20 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:49:20 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 234
+[13-Apr-2017 02:49:20 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:49:38 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:50:21 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:50:43 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:53:12 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:54:43 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 02:55:41 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(563): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:09:40 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:239
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(68): GetModules->getResponse(Array)
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(223): ZohoApi->makeRequest(Array)
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(555): GetModules->getModules()
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 239
+[13-Apr-2017 03:11:12 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(564): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:13:27 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(570): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:13:35 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(570): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:15:21 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:239
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(68): GetModules->getResponse(Array)
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(223): ZohoApi->makeRequest(Array)
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(561): GetModules->getModules()
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 239
+[13-Apr-2017 03:16:20 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:239
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(68): GetModules->getResponse(Array)
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(223): ZohoApi->makeRequest(Array)
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(561): GetModules->getModules()
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 239
+[13-Apr-2017 03:17:23 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(570): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:18:42 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(570): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:18:59 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(570): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:20:49 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(571): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:21:40 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:239
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(68): GetModules->getResponse(Array)
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(223): ZohoApi->makeRequest(Array)
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(562): GetModules->getModules()
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 239
+[13-Apr-2017 03:22:29 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(571): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:25:11 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(571): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:26:46 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:239
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(68): GetModules->getResponse(Array)
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(223): ZohoApi->makeRequest(Array)
+#2 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(562): GetModules->getModules()
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 239
+[13-Apr-2017 03:29:07 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(572): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:30:15 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(572): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:31:12 America/New_York] PHP Fatal error:  Uncaught Error: Invalid value for function parameter, Must be const value from GetModules. in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:221
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(572): GetModules->getModules('jets')
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 221
+[13-Apr-2017 03:51:59 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 279
+[13-Apr-2017 03:52:39 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 279
+[13-Apr-2017 03:58:20 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php:283
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(270): GetFields->getResponse(Object(stdClass))
+#1 /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php(552): GetFields->getFields()
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/ZOHO-CRM.php on line 283
+[13-Apr-2017 02:12:01 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/test/oop_e-contract.php:191
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/oop_e-contract.php on line 191
+[13-Apr-2017 13:35:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 15:03:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 17:29:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 17:33:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 22:15:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 22:16:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 22:16:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 22:16:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 22:16:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[13-Apr-2017 22:37:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 11:56:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 11:59:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 12:30:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 13:44:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 14:03:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 15:15:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 15:57:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 16:23:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 16:28:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[14-Apr-2017 19:25:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[16-Apr-2017 10:10:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 21
+[18-Apr-2017 11:21:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function GetContract() on null in /home2/sablrcrmpro/public_html/test/contractcallback.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 32
+[18-Apr-2017 11:36:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 37
+[18-Apr-2017 11:37:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractAsPrimaryResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 37
+[18-Apr-2017 11:43:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getGetContractResult() in /home2/sablrcrmpro/public_html/test/contractcallback.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 38
+[20-Apr-2017 13:36:47 America/New_York] PHP Warning:  file_put_contents(pdf/76a182b6-9f78-4753-ba1d-ff9b2d46d27b.pdf): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 65
+[20-Apr-2017 13:39:04 America/New_York] PHP Warning:  file_put_contents(pdf/76a182b6-9f78-4753-ba1d-ff9b2d46d27b.pdf): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 65
+[20-Apr-2017 13:42:06 America/New_York] PHP Warning:  file_put_contents(pdf/76a182b6-9f78-4753-ba1d-ff9b2d46d27b.pdf): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/contractcallback.php on line 65
+[21-Apr-2017 14:01:47 America/New_York] PHP Warning:  Illegal string offset 'Zip' in /home2/sablrcrmpro/public_html/test/phpinfo.php on line 28
+[21-Apr-2017 14:07:35 America/New_York] PHP Warning:  Illegal string offset 'Zip' in /home2/sablrcrmpro/public_html/test/phpinfo.php on line 28
+[21-Apr-2017 14:18:10 America/New_York] PHP Warning:  Illegal string offset 'Zip' in /home2/sablrcrmpro/public_html/test/phpinfo.php on line 28
+[21-Apr-2017 14:19:02 America/New_York] PHP Warning:  Illegal string offset 'response' in /home2/sablrcrmpro/public_html/test/phpinfo.php on line 28
+[22-Apr-2017 08:50:45 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 49
+[22-Apr-2017 08:52:19 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 49
+[22-Apr-2017 08:55:32 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 49
+[22-Apr-2017 08:56:35 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 49
+[22-Apr-2017 08:57:19 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 49
+[22-Apr-2017 09:00:57 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 49
+[22-Apr-2017 09:03:35 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/Integration/ZOHO-API/zoho.php on line 49

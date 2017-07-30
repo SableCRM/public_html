@@ -1,0 +1,96 @@
+[26-Apr-2017 23:50:42 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:25
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php(25): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 25
+[26-Apr-2017 23:51:34 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 26
+[27-Apr-2017 03:54:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:125
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php(60): updateContact(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 125
+[27-Apr-2017 08:37:52 America/New_York] PHP Fatal error:  Class 'app\credit\credit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/app/credit/pullNewCredit.php on line 12
+[27-Apr-2017 08:38:00 America/New_York] PHP Fatal error:  Class 'app\credit\credit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/app/credit/pullNewCredit.php on line 12
+[27-Apr-2017 08:42:42 America/New_York] PHP Fatal error:  Class 'app\credit\credit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/app/credit/pullNewCredit.php on line 12
+[27-Apr-2017 08:42:45 America/New_York] PHP Fatal error:  Class 'app\credit\credit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/app/credit/pullNewCredit.php on line 12
+[27-Apr-2017 08:42:53 America/New_York] PHP Fatal error:  Class 'app\credit\credit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/app/credit/pullNewCredit.php on line 12
+[27-Apr-2017 08:45:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 08:45:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 08:45:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 08:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 08:59:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:00:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'creditcheck\app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:01:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'creditcheck\app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:01:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'creditcheck\app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:03:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'creditcheck\app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:04:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'creditcheck\app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:05:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:05:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:06:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:08:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'app\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 107
+[27-Apr-2017 09:28:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'credit\credit\pullNewCredit' not found in /home2/sablrcrmpro/public_html/creditportal/creditcheck/demo.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/demo.php on line 44
+[27-Apr-2017 10:13:01 America/New_York] PHP Warning:  Illegal string offset 'score' in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 113
+[27-Apr-2017 10:13:01 America/New_York] PHP Warning:  Illegal string offset 'transid' in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 114
+[27-Apr-2017 10:13:01 America/New_York] PHP Warning:  Illegal string offset 'token' in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 115
+[27-Apr-2017 10:13:01 America/New_York] PHP Warning:  Illegal string offset 'file_hit' in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 116
+[27-Apr-2017 10:18:30 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 119
+[27-Apr-2017 10:19:58 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 119
+[27-Apr-2017 10:21:56 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 120
+[27-Apr-2017 10:26:24 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:117
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 117
+[28-Apr-2017 05:42:10 America/New_York] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 10
+[28-Apr-2017 05:42:10 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:10) in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 12
+[28-Apr-2017 05:42:43 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:10) in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 12
+[28-Apr-2017 05:51:03 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:10) in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 12
+[28-Apr-2017 05:51:33 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:10) in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 12
+[28-Apr-2017 05:57:32 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php:10) in /home2/sablrcrmpro/public_html/creditportal/creditcheck/index.php on line 12

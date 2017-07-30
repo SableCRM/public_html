@@ -1,0 +1,1044 @@
+/* DASHBOARD */
+
+#dashboard_heading {
+    width: 100%;
+    flex-direction: column;
+    padding: 60px 0px;
+}
+
+#dashboard_heading div {
+    margin: 20px;
+    font-size: 22px;
+}
+
+#dashboard_heading .button {
+    width: 250px;
+    padding: 15px;
+    height: auto;
+}
+
+#dashboard_links > div {
+    width: 50%;
+    padding: 10px;
+}
+
+#dashboard_links .dashboard_subheading {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #d5bfcb;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+#dashboard_links .dashboard_subheading h2 {
+    color: #660d3a;
+    font-size: 32px;
+    font-weight: normal;
+}
+
+#dashboard_links img {
+    margin-right: 10px;
+}
+
+#dashboard_links a {
+    color: #660d3a;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+#dashboard_links ul {
+    padding-left: 19px;
+}
+
+#dashboard_links li {
+    font-weight: 900;
+    font-size: 18px;
+}
+
+#dashboard_links span {
+    color: #666;
+    font-size: 14px;
+}
+/*START AINSLEY CHANGES*/
+.hide-response{
+    display: none !important;
+}
+/*END AINSLEY CHANGES*/
+
+/* NEW ACCOUNT */
+
+#sales_heading {
+    width: 100%;
+    padding: 60px 0px;
+}
+
+#sales_heading > div {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+
+#sales_heading > div > img {
+    margin-right: 10px;
+}
+
+#sales_heading > div div {
+    font-size: 20px;
+}
+
+#sales_heading > div h1 {
+    font-size: 34px;
+    font-weight: bold;
+    color: #8e1651;
+    margin-bottom: 2px;
+}
+
+#sales_heading > img {
+    width: 33%;
+}
+
+#error_message {
+    flex-direction: column;
+}
+
+#error_message > div {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#error_message > div > img {
+    margin-right: 10px;
+}
+
+#error_message > div > div {
+    width: 100%;
+}
+
+#error_message p {
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+#error_message #credit_declined h2 {
+    color: #ffb300;
+    font-size: 34px;
+}
+
+#error_message #no_subject_found h2 {
+    color: #666;
+    font-size: 34px;
+}
+
+#error_message #no_subject_found h2 span {
+    color: #a9a9a9;
+}
+
+#error_message .error_buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+#error_message .error_buttons .button {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+/* SECURITY SYSTEM */
+
+#package_modules {
+    flex-direction: column;
+}
+
+#package_modules .module-body {
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#security_system #confirm {
+    width: auto;
+    flex: 0;
+    margin: 0 auto;
+}
+
+/* CUSTOMER INFO */
+
+#customer_info .module-body {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#customer_info .customer_info {
+    width: 33.3%;
+    height: 90px;
+    padding: 10px;
+    flex-direction: column;
+}
+
+#customer_info .address {
+    width: 100%;
+}
+
+#customer_info .divider {
+    width: 100%;
+    max-height: 0px;
+    border-bottom: 1px solid #7b003f;
+    margin: 10px;
+}
+
+#customer_info .half {
+    width: 50%;
+}
+
+#customer_info .quarter {
+    width: 25%;
+}
+
+#customer_info .button {
+    margin: 10px auto;
+    flex: 0;
+}
+
+#submit_account_info {
+    margin: 0 auto;
+    width: auto !important;
+}
+
+#customer_info #commercial {
+    display: none;
+    flex: 1 1 auto;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#customer_info #commercial > * {
+    height: 90px;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: flex-start;
+    display: flex;
+    flex: 1 1 auto;
+}
+
+#customer_info #personal_guarantee {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 62px;
+}
+
+#customer_info #personal_guarantee h2 {
+    font-size: 22px;
+}
+
+#customer_info #com_address_toggle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 42px;
+}
+
+#customer_info #com_address_toggle span {
+    margin-left: 20px;
+}
+
+/* LEAD INFO */
+
+#lead_info .module-body {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#lead_info .lead_info {
+    width: 33.3%;
+    height: 90px;
+    padding: 10px;
+    flex-direction: column;
+}
+
+#lead_info .address {
+    width: 100%;
+}
+
+#lead_info .divider {
+    width: 100%;
+    max-height: 0px;
+    border-bottom: 1px solid #7b003f;
+    margin: 10px;
+}
+
+#lead_info .half {
+    width: 50%;
+}
+
+#lead_info .quarter {
+    width: 25%;
+}
+
+#lead_info .eighth {
+    width: 12.5%;
+}
+
+#lead_info .module-footer {
+    justify-content: flex-end;
+}
+
+#submit_lead_info {
+    width: auto !important;
+}
+
+/* PACKAGE DETAILS */
+
+#package_details .module-body {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+#package_details .package_detail {
+    width: 33.3%;
+    height: 90px;
+    padding: 10px;
+    flex-direction: column;
+}
+
+#package_details .divider {
+    width: 100%;
+    max-height: 0px;
+    border-bottom: 1px solid #7b003f;
+    margin: 10px;
+}
+
+#package_details .package_details_heading {
+    width: 100%;
+    padding: 10px;
+    padding-top: 30px;
+    font-size: 19px;
+}
+
+#package_details .half {
+    width: 50%;
+}
+
+#package_details .quarter {
+    width: 25%;
+}
+
+#package_details .eighth {
+    width: 12.5%;
+}
+
+#package_details #other {
+    height: 126px;
+}
+
+/* PAYMENT INFO */
+
+#payment_info .module-body {
+    padding: 10px;
+}
+
+#payment_info .module-body > div {
+    flex-direction: column;
+    width: 100%;
+}
+
+#payment_info #checking_account, #payment_info #credit_card, #payment_info #invoice {
+    padding: 10px;
+}
+
+#payment_info .payment_description {
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+#payment_info .payment_description .payment_text {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    line-height: 20px;
+}
+
+#payment_info .payment_description .payment_images img {
+    max-width: 100%;
+}
+
+#payment_info .payment_description input {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+    flex-shrink: 0;
+}
+
+#payment_info .inputs {
+    display: flex;
+    padding-left: 30px;
+}
+
+#payment_info .inputs input {
+    width: 100%;
+}
+
+#payment_info .inputs #routing_number {
+    margin-right: 20px;
+}
+
+#payment_info div.divider {
+    width: 100%;
+    max-height: 0px;
+    border-bottom: 1px solid #7b003f;
+    margin: 10px;
+}
+
+#payment_info #credit_card .payment_images {
+    display: flex;
+}
+
+#payment_info #credit_card .payment_images img {
+    margin-left: 5px;
+}
+
+#payment_info #credit_card_number, #payment_info #credit_card_exp {
+    margin-right: 20px;
+}
+
+#payment_info #credit_card_number {
+    width: 50%;
+}
+
+#payment_info #credit_card_exp {
+    width: 30%;
+}
+
+#payment_info #credit_card_cvv {
+    width: 20%;
+}
+
+#payment_info #invoice {
+    padding-bottom: 0px;
+}
+
+#payment_info #billing_address {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#payment_info #billing_address_heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    padding-top: 20px;
+    align-items: center;
+}
+
+#payment_info #billing_address_heading h2 {
+    font-size: 19px;
+}
+
+#payment_info #billing_address_heading div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#payment_info #billing_address_heading div input {
+    margin-right: 20px;
+}
+
+#payment_info #billing_address .billing_address {
+    width: 33.3%;
+    height: 90px;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: flex-start;
+    display: flex;
+    flex: 1 1 auto;
+}
+
+#payment_info #billing_address .half {
+    width: 50%;
+}
+
+#payment_info #billing_address .quarter {
+    width: 25%;
+}
+
+#payment_info #billing_address .eighth {
+    width: 12.5%;
+}
+
+/* ADDITIONAL NOTES */
+
+#additional_notes .module-body {
+    padding: 20px;
+}
+
+#additional_notes textarea {
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+}
+
+/* SUCESS PAGES */
+
+.success_page > * {
+    width: auto;
+    margin-top: 20px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.success_page h1 {
+    color: #53ba48;
+    font-size: 60px;
+}
+
+.success_page p {
+    display: inline;
+    width: 480px;
+    font-size: 24px;
+}
+
+.success_page #credit_score {
+    font-size: 24px;
+}
+
+.success_page #check_email {
+    font-size: 18px;
+    width: 300px;
+    padding-top: 20px;
+}
+
+.success_page strong {
+    font-weight: 900;
+}
+
+.success_page #moni_logo, .success_page .button {
+    margin: 40px 0px;
+}
+
+/* COMMISSIONS */
+
+#date_selection {
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: #f6f6f6;
+    border: 1px solid #d7d7d7;
+    padding: 20px 20px 0px 20px;
+    margin-bottom: 20px;
+}
+
+#date_selection > * {
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+#date_selection div input {
+    width: 220px;
+}
+
+#date_selection > .button {
+    margin-right: 0px;
+}
+
+#commissions_data {
+    flex-direction: column;
+    background-color: #f6f6f6;
+    border: 1px solid #d7d7d7;
+    padding: 20px;
+}
+
+#commissions_data > * {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#commissions_data #overview {
+    margin-bottom: 20px;
+}
+
+#commissions_data h2 {
+    margin-bottom: 5px;
+}
+
+#commissions_data .date_range {
+    margin-bottom: 20px;
+    color: #808080;
+}
+
+/* CALENDAR */
+
+#portal_container.calendar-container {
+    width: 100%;
+    max-width: 100%;
+    padding: 20px 0px 0px 0px;
+}
+
+#portal_container.calendar-container header {
+    max-width: 808px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+
+#calendar * {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#calendar i {
+	font-size: 25px;
+	-webkit-transition: all 0.25s;
+    -moz-transition: all 0.25s;
+    transition: all 0.25s;
+}
+
+#calendar .container {
+    width: 100%;
+    padding: 25px 20px;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 808px;
+}
+
+#calendar .container > * {
+    width: 100%;
+    max-width: 808px;
+}
+
+#calendar #page-heading {
+    padding: 82.5px 20px;
+}
+
+#calendar #page-heading i {
+    font-size: 75px;
+    color: #7c0e45;
+    margin-right: 20px;
+}
+
+#calendar #page-heading-text {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#calendar #page-heading-text h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    color: #650a34;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+#calendar #page-heading-text p {
+    font-size: 25px;
+    color: #993366;
+}
+
+#calendar-header {
+    justify-content: space-between;
+}
+
+#calendar-header h2, #calendar-header div, #calendar-header span {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+#calendar-header #date-range-divider {
+    padding: 0 10px;
+}
+
+#calendar-header #date-arrows {
+    margin-left: 20px;
+}
+
+#calendar-header #date-arrows i {
+    color: #7c0e45;
+    cursor: pointer;
+}
+
+#calendar-header #date-arrows #previous {
+    margin-right: 10px;
+}
+
+#calendar .left {
+    justify-content: flex-start;
+}
+
+#calendar .right {
+    justify-content: flex-end;
+}
+
+#calendar .table {
+    flex-direction: column;
+    overflow: auto;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+    padding-top: 50px;
+}
+
+#calendar .table > * {
+    flex-direction: row;
+}
+
+#calendar .table-headings {
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#calendar .table-headings div, #calendar .table-cell  {
+    width: 150px;
+    height: 50px;
+    padding: 10px 20px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+}
+
+#calendar .table-headings div {
+    background-color: #650a34;
+    border-left: 1px solid white;
+    font-size: 17.5px;
+}
+
+#calendar .table-headings div:first-of-type {
+    border-left: 1px solid #650a34;
+}
+
+#calendar .table-headings, #calendar .table-row {
+    width: 100%;
+    justify-content: flex-start;
+}
+
+#calendar .table-cell {
+    color: #808080;
+    background-color: white;
+    border: 1px solid #d9d9d9;
+    border-right: 0;
+    border-top: 0;
+    font-size: 15px;
+    flex-direction: column;
+}
+
+#calendar .table-cell:last-of-type {
+    border-right: 1px solid #d9d9d9;
+}
+
+#calendar .table-cell > *:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+#calendar #week {
+    margin-bottom: 50px;
+    max-height: 700px;
+    width: auto;
+    max-width: 100%;
+}
+
+#calendar #week .table-headings, #calendar #week .table-row {
+    flex-shrink: 0;
+}
+
+#calendar #week .table-headings div {
+    width: 200px;
+}
+
+#calendar #week .table-headings .today {
+    background-color: #7c0e45;
+}
+
+#calendar #week .table-cell {
+    width: 200px;
+    height: 250px;
+}
+
+#calendar #week .table-cell.tech-name, #calendar #week .table-headings div:first-child {
+    width: 175px;
+}
+
+#calendar #week .table-cell.tech-name a {
+    font-size: 20px;
+    color: #993366;
+    text-align: left;
+    text-transform: capitalize;
+    line-height: 25px;
+}
+
+#calendar #week .num-events {
+    font-weight: 400;
+}
+
+#calendar #week .event {
+    width: 100%;
+    justify-content: space-between;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#calendar #week i {
+    font-size: 35px;
+    display: none;
+}
+
+#calendar #week .icon-home {
+    color: #7c0e45;
+}
+
+#calendar #week .icon-wrench {
+    color: #cc6352;
+}
+
+#calendar #week .event-info {
+    width: 125px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#calendar #week .event-time, #calendar #week .event-customer {
+    font-weight: 700;
+    width: 100%;
+    justify-content: flex-start;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+#calendar #week .event-customer {
+    font-weight: 300;
+    text-transform: capitalize;
+    line-height: 20px;
+}
+
+
+/* MEDIA QUERIES */
+
+@media (max-width: 767px) {
+
+    #calendar #page-heading {
+        padding: 45px 0px;
+    }
+
+    #calendar #page-heading i {
+        font-size: 50px;
+    }
+
+    #calendar #page-heading-text h1 {
+        font-size: 30px;
+    }
+
+    #calendar #page-heading-text p {
+        font-size: 20px;
+    }
+
+    #calendar-header {
+        flex-direction: column;
+        margin-bottom: 0;
+    }
+
+    #calendar-header > * {
+        justify-content: center;
+        margin-bottom: 25px;
+    }
+
+}
+
+@media (max-width: 700px) {
+
+    #payment_info .inputs {
+        flex-direction: column;
+    }
+
+    #payment_info .inputs input:not(:last-child) {
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    #payment_info #credit_card_number, #payment_info #credit_card_exp, #payment_info #credit_card_cvv {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 600px) {
+
+    #dashboard_links {
+        flex-direction: column;
+    }
+
+    #dashboard_links > div {
+        width: 320px;
+        max-width: 100%;
+    }
+
+    #sales_heading {
+        flex-direction: column;
+    }
+
+    #sales_heading > img {
+        width: 160px;
+        margin-top: 20px;
+    }
+
+    #package_details .package_detail, #package_details .package_detail.quarter {
+        width: 50%;
+    }
+
+    #payment_info .payment_description {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #payment_info .payment_description > div {
+        margin-bottom: 10px;
+    }
+
+    #payment_info .inputs {
+        padding-left: 0px;
+    }
+
+    #payment_info #billing_address .billing_address {
+        width: 50%;
+    }
+
+    .success_page img {
+        height: 80px;
+        width: auto;
+    }
+
+}
+
+@media (max-width: 480px) {
+
+    a {
+        width: 100%;
+    }
+
+    #dashboard_heading div {
+        font-size: 18px;
+    }
+
+    #dashboard_links .dashboard_subheading h2 {
+        font-size: 24px;
+    }
+
+    #sales_heading > div > img {
+        width: 75px;
+        height: 75px;
+    }
+
+    #sales_heading > div div {
+        font-size: 16px;
+    }
+
+    #sales_heading > div h1 {
+        font-size: 24px;
+    }
+
+    #error_message > div {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    #error_message > div > img {
+        width: 50px;
+        height: 50px;
+        margin-bottom: 20px;
+        margin-right: 0px;
+    }
+
+    #error_message > div > div {
+        max-width: 100%;
+    }
+
+    #error_message #credit_declined h2, #error_message #no_subject_found h2 {
+        font-size: 24px;
+    }
+
+    #error_message p {
+        font-size: 16px;
+    }
+
+    #error_message .error_buttons .button {
+        margin-right: 0px;
+        font-size: 16px;
+    }
+
+    #customer_info .customer_info {
+        width: 100%;
+    }
+
+    #customer_info #personal_guarantee {
+        flex-direction: column;
+        height: auto;
+    }
+
+    #customer_info #personal_guarantee h2 {
+        margin-bottom: 20px;
+    }
+
+    #lead_info .lead_info {
+        width: 100%;
+    }
+
+    #package_details .package_detail, #package_details .package_detail.quarter {
+        width: 100%;
+    }
+
+    #payment_info .payment_description > div {
+        align-items: center;
+    }
+
+    #payment_info #billing_address_heading {
+        flex-direction: column;
+    }
+
+    #payment_info #billing_address_heading h2 {
+        margin-bottom: 20px;
+    }
+
+    #payment_info #billing_address .billing_address {
+        width: 100%;
+    }
+
+    #security_system #confirm {
+        font-size: 18px;
+    }
+
+    .success_page p {
+        font-size: 18px;
+    }
+
+    .success_page .button {
+        font-size: 18px;
+    }
+
+    #date_selection div, #date_selection div input {
+        width: 100%;
+        margin-right: 0;
+    }
+
+}

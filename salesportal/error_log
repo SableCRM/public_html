@@ -1,0 +1,1239 @@
+[11-Mar-2017 20:05:24 America/Chicago] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 7
+[11-Mar-2017 20:05:24 America/Chicago] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 7
+[11-Mar-2017 20:05:24 America/Chicago] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 7
+[11-Mar-2017 20:05:24 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 23
+[11-Mar-2017 20:05:24 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 23
+[11-Mar-2017 20:05:24 America/Chicago] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 23
+[11-Mar-2017 20:19:58 America/Chicago] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 7
+[11-Mar-2017 20:19:58 America/Chicago] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 7
+[11-Mar-2017 20:19:58 America/Chicago] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 7
+[11-Mar-2017 20:19:58 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 23
+[11-Mar-2017 20:19:58 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 23
+[11-Mar-2017 20:19:58 America/Chicago] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/salesportal/portals.php on line 23
+[11-Mar-2017 20:30:10 America/Chicago] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/index.php on line 7
+[11-Mar-2017 20:30:10 America/Chicago] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/index.php on line 7
+[11-Mar-2017 20:30:10 America/Chicago] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/salesportal/index.php on line 7
+[11-Mar-2017 20:30:10 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/index.php on line 77
+[11-Mar-2017 20:30:10 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/index.php on line 77
+[11-Mar-2017 20:30:10 America/Chicago] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/salesportal/index.php on line 77
+[14-Mar-2017 07:27:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Zoho' not found in /home2/sablrcrmpro/public_html/salesportal/security-system.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 7
+[14-Mar-2017 07:34:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Zoho' not found in /home2/sablrcrmpro/public_html/salesportal/security-system.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 7
+[14-Mar-2017 07:35:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Zoho' not found in /home2/sablrcrmpro/public_html/salesportal/security-system.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 7
+[14-Mar-2017 18:44:40 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/salesportal/thank-you.php on line 7
+[14-Mar-2017 18:45:13 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/salesportal/thank-you.php on line 7
+[14-Mar-2017 18:45:16 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/salesportal/thank-you.php on line 7
+[14-Mar-2017 18:45:35 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/sablrcrmpro/public_html/salesportal/thank-you.php on line 7
+[22-Mar-2017 16:44:23 America/New_York] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/commissions.php on line 7
+[22-Mar-2017 16:44:23 America/New_York] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/salesportal/commissions.php on line 7
+[22-Mar-2017 16:44:23 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/commissions.php on line 145
+[22-Mar-2017 16:44:23 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/salesportal/commissions.php on line 145
+[24-Mar-2017 10:45:59 America/New_York] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/login.php on line 7
+[24-Mar-2017 10:45:59 America/New_York] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/salesportal/login.php on line 7
+[24-Mar-2017 10:45:59 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/login.php on line 37
+[24-Mar-2017 10:45:59 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/salesportal/login.php on line 37
+[24-Mar-2017 10:46:14 America/New_York] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/login.php on line 7
+[24-Mar-2017 10:46:14 America/New_York] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/salesportal/login.php on line 7
+[24-Mar-2017 10:46:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/login.php on line 37
+[24-Mar-2017 10:46:14 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/salesportal/login.php on line 37
+[27-Mar-2017 08:27:49 America/New_York] PHP Warning:  require_once(../Integration/ParseJson.js): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/portals/head.php on line 11
+[27-Mar-2017 08:27:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../Integration/ParseJson.js' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/portals/head.php on line 11
+[04-Apr-2017 13:15:40 America/New_York] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/login.php on line 7
+[04-Apr-2017 13:15:40 America/New_York] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/salesportal/login.php on line 7
+[04-Apr-2017 13:15:40 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/salesportal/login.php on line 37
+[04-Apr-2017 13:15:40 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/salesportal/login.php on line 37
+[14-Apr-2017 10:51:54 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 10:52:44 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(7): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 10:53:12 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(7): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 10:55:56 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 10:56:03 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 10:56:56 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 10:57:01 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:04:09 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:08:27 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:11:44 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:11:44 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:11:52 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:11:52 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:12:35 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:12:35 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:12:40 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:12:40 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:15:33 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:15:33 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:16:30 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:19:46 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(68): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:20:46 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(68): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:25:51 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(69): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:30:44 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(71): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:30:57 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(71): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:31:31 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(71): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:37:39 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:39:29 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:39:38 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:41:08 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 11:43:02 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 12:05:48 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 12:05:50 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 12:06:47 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 12:09:02 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 12:12:13 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 12:12:40 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 13:06:33 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 13:07:42 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 13:08:35 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(322): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[14-Apr-2017 13:09:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:402
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(73): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 402
+[14-Apr-2017 14:37:35 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 14:39:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 14:42:15 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 14:43:04 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 14:54:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 15:08:49 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 15:09:37 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 15:10:05 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 15:28:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:327
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 327
+[14-Apr-2017 15:30:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:327
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 327
+[14-Apr-2017 17:01:12 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 17:01:39 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to StructType\ContractDocument::setPaymentInitial() must be an instance of StructType\PaymentItem, boolean given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 296 and defined in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1742
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(296): StructType\ContractDocument->setPaymentInitial(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1742
+[14-Apr-2017 17:03:13 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to getCreditCardExpiration() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 199 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:50
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(199): getCreditCardExpiration(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(219): setPaymentType('cc', Array)
+#2 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#3 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 50
+[14-Apr-2017 17:03:34 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[14-Apr-2017 17:17:16 America/New_York] PHP Warning:  preg_match(): Unknown modifier '\' in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 53
+[14-Apr-2017 17:17:16 America/New_York] PHP Warning:  preg_match(): Unknown modifier '\' in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 53
+[14-Apr-2017 17:17:16 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php:259
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(184): StructType\PaymentItem->setCreditCardExpireMonth(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(203): setPaymentType('cc', Array)
+#2 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#3 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php on line 259
+[14-Apr-2017 17:18:33 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 10:18:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:320
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 320
+[15-Apr-2017 10:18:39 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 11:08:40 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to StructType\ContractDocument::setPaymentInitial() must be an instance of StructType\PaymentItem, boolean given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 252 and defined in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1742
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(252): StructType\ContractDocument->setPaymentInitial(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1742
+[15-Apr-2017 11:10:41 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to StructType\ContractDocument::setPaymentInitial() must be an instance of StructType\PaymentItem, boolean given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 254 and defined in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1742
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(254): StructType\ContractDocument->setPaymentInitial(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1742
+[15-Apr-2017 11:12:03 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to StructType\ContractDocument::setPaymentInitial() must be an instance of StructType\PaymentItem, boolean given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 254 and defined in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1742
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(254): StructType\ContractDocument->setPaymentInitial(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1742
+[15-Apr-2017 11:14:25 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 11:16:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 11:19:38 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 11:30:41 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 11:31:08 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 11:32:08 America/New_York] PHP Warning:  preg_match(): Unknown modifier '\' in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 54
+[15-Apr-2017 11:32:08 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: Visa, MasterCard, Discover, AmericanExpress in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php:337
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(189): StructType\PaymentItem->setCreditCardType(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(206): setPaymentType('cc', Array)
+#2 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#3 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php on line 337
+[15-Apr-2017 11:32:20 America/New_York] PHP Warning:  preg_match(): Unknown modifier '\' in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 54
+[15-Apr-2017 11:32:20 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: Visa, MasterCard, Discover, AmericanExpress in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php:337
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(189): StructType\PaymentItem->setCreditCardType(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(206): setPaymentType('cc', Array)
+#2 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#3 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php on line 337
+[15-Apr-2017 11:37:31 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: Visa, MasterCard, Discover, AmericanExpress in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php:337
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(190): StructType\PaymentItem->setCreditCardType(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(207): setPaymentType('cc', Array)
+#2 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#3 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php on line 337
+[15-Apr-2017 11:52:11 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: Visa, MasterCard, Discover, AmericanExpress in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php:337
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(190): StructType\PaymentItem->setCreditCardType(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(207): setPaymentType('cc', Array)
+#2 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#3 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php on line 337
+[15-Apr-2017 12:00:11 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:01:22 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:05:35 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:06:57 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:08:05 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:10:41 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:37:00 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:37:32 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:37:53 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:38:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:38:33 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:39:33 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:40:55 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:41:21 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:42:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:44:12 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:45:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:48:11 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:55:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:56:17 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 12:57:57 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 13:09:46 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 13:10:51 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 13:11:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 13:13:27 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 13:17:33 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 13:18:28 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[15-Apr-2017 13:18:51 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 04:09:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:439
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 439
+[16-Apr-2017 04:10:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 04:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:439
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 439
+[16-Apr-2017 04:25:03 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 04:26:47 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 04:31:50 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 402
+[16-Apr-2017 04:32:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:439
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 439
+[16-Apr-2017 04:36:41 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 04:41:37 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 04:42:23 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 04:42:45 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 09:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:439
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 439
+[16-Apr-2017 09:22:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 09:22:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 09:26:42 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 09:27:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 09:31:27 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[16-Apr-2017 09:57:02 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[17-Apr-2017 09:44:53 America/New_York] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 95
+[17-Apr-2017 10:37:45 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(153): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage(NULL, '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:39:19 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(153): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:41:04 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(153): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:43:47 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(154): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:44:30 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(154): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:45:43 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(154): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:47:16 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(154): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:48:15 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(154): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:48:55 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(154): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:49:44 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(154): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 10:50:13 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a string, "object" given in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php(68): StructType\EquipmentItem->setName(Object(StructType\EquipmentItem))
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(154): StructType\EquipmentItem->__construct(Object(StructType\EquipmentItem))
+#2 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(40): addPackage('Silver', '700')
+#3 /home2/sablrcrmpro/public_html/salesportal/security-system.php(72): require_once('/home2/sablrcrm...')
+#4 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/EquipmentItem.php on line 96
+[17-Apr-2017 11:17:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[17-Apr-2017 11:18:47 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 76
+[17-Apr-2017 13:14:24 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:426) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[17-Apr-2017 15:16:00 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(359): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(82): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[17-Apr-2017 22:53:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:426) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[17-Apr-2017 22:53:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:426) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[18-Apr-2017 05:08:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:423
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(82): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 423
+[18-Apr-2017 05:09:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:426) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[18-Apr-2017 05:14:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:426) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[18-Apr-2017 05:22:47 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:426) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[18-Apr-2017 05:35:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:426) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[18-Apr-2017 12:09:22 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:09:23 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:09:23 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:11:22 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:11:22 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:11:22 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:12:52 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:12:52 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:12:52 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:13:52 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:13:52 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:13:52 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:15:07 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:15:07 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[18-Apr-2017 12:15:07 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[19-Apr-2017 15:18:22 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[19-Apr-2017 15:18:22 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[19-Apr-2017 15:18:22 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:18:19 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:18:19 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:18:19 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:20:51 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:20:51 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:20:51 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:33:16 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:33:16 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:33:16 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:42:25 America/New_York] PHP Warning:  SoapClient::SoapClient(https://mimasweb.monitronics.net/eContractAPI?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:42:25 America/New_York] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity &quot;https://mimasweb.monitronics.net/eContractAPI?wsdl&quot; in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 09:42:25 America/New_York] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://mimasweb.monitronics.net/eContractAPI?wsdl' : failed to load external entity "https://mimasweb.monitronics.net/eContractAPI?wsdl"
+ in /home2/sablrcrmpro/eContractApi/vendor/wsdltophp/packagebase/src/AbstractSoapClientBase.php on line 86
+[20-Apr-2017 10:15:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:413) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 98
+[21-Apr-2017 04:47:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:293
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(84): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 293
+[21-Apr-2017 04:49:56 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 299
+[21-Apr-2017 05:06:33 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(227): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(84): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[21-Apr-2017 05:08:26 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(227): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(84): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[21-Apr-2017 05:09:30 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(227): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(84): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[21-Apr-2017 11:09:15 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(227): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(87): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[21-Apr-2017 15:40:55 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(87): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[21-Apr-2017 15:41:38 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(87): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[21-Apr-2017 15:43:26 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(87): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[21-Apr-2017 15:43:53 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(87): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[21-Apr-2017 15:44:38 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(87): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[21-Apr-2017 15:45:00 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(87): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[21-Apr-2017 15:53:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[22-Apr-2017 00:05:07 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'https://na2.docusign.net/Signing/startinsession.as' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:115
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(115): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 115
+[22-Apr-2017 09:54:58 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'labuda67@yahoo.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:115
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(115): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 115
+[22-Apr-2017 10:06:09 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'labuda67@yahoo.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:115
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(115): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 115
+[22-Apr-2017 12:24:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[22-Apr-2017 13:07:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[22-Apr-2017 15:26:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[22-Apr-2017 17:46:53 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sandra.chilcoat@verizon.net' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:115
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(115): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 115
+[22-Apr-2017 17:50:52 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sandra.chilcoat@verizon.net' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:115
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(115): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 115
+[22-Apr-2017 17:56:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[22-Apr-2017 18:03:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[23-Apr-2017 21:24:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[23-Apr-2017 21:28:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'craig.metzger@gmiautomation.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:115
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(115): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 115
+[23-Apr-2017 21:34:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[23-Apr-2017 21:50:15 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:115
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(115): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 115
+[23-Apr-2017 22:03:49 America/New_York] PHP Warning:  mail() expects parameter 4 to be string, array given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 97
+[23-Apr-2017 22:03:49 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:118
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(118): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 118
+[23-Apr-2017 22:07:54 America/New_York] PHP Warning:  mail() expects parameter 4 to be string, array given in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 97
+[23-Apr-2017 22:07:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:118
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(118): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 118
+[23-Apr-2017 22:16:49 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:116
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 116
+[23-Apr-2017 22:19:33 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:116
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 116
+[23-Apr-2017 22:22:12 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:116
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 116
+[24-Apr-2017 08:48:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:120
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(120): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 120
+[24-Apr-2017 09:18:46 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:120
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(120): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 120
+[24-Apr-2017 09:21:53 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:120
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(120): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 120
+[24-Apr-2017 09:29:41 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:125
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(125): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 125
+[24-Apr-2017 09:34:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 127
+[24-Apr-2017 09:35:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 127
+[24-Apr-2017 09:38:11 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:125
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(125): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 125
+[24-Apr-2017 09:45:50 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 122
+[24-Apr-2017 09:47:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/salesportal/e-contract.php:294) in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 122
+[24-Apr-2017 13:34:44 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'craig.metzger@gmiautomation.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:120
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(120): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 120
+[24-Apr-2017 15:40:58 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(96): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[24-Apr-2017 15:41:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(96): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[24-Apr-2017 15:49:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ainsley.clarke@guardme.com' for key 'EMAIL' in /home2/sablrcrmpro/public_html/salesportal/security-system.php:96
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(96): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 96
+[24-Apr-2017 21:45:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home2/sablrcrmpro/public_html/salesportal/security-system.php:117
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[24-Apr-2017 21:45:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home2/sablrcrmpro/public_html/salesportal/security-system.php:117
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/security-system.php on line 117
+[25-Apr-2017 05:40:50 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[25-Apr-2017 05:44:18 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[25-Apr-2017 08:32:53 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(227): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[25-Apr-2017 08:34:37 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value, please provide a numeric value, "boolean" given in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:1256
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(227): StructType\ContractDocument->setDraftDay(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 1256
+[25-Apr-2017 09:03:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 09:03:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 10:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 10:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 10:12:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 10:22:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 10:22:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 11:53:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 11:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 11:55:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 11:59:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 12:00:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 12:02:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 12:04:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 12:31:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 12:32:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 12:34:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 12:35:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:291
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 291
+[25-Apr-2017 15:30:22 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[25-Apr-2017 15:30:49 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: Visa, MasterCard, Discover, AmericanExpress in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php:337
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(181): StructType\PaymentItem->setCreditCardType(false)
+#1 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(198): setPaymentType('cc', Array)
+#2 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#3 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/PaymentItem.php on line 337
+[25-Apr-2017 22:28:12 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[25-Apr-2017 22:28:12 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[26-Apr-2017 13:16:55 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/sablrcrmpro/public_html/salesportal/new-account.php on line 70
+[26-Apr-2017 14:19:00 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Nc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Nc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[26-Apr-2017 14:19:54 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Nc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Nc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[26-Apr-2017 14:21:43 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Nc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Nc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[26-Apr-2017 14:32:13 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Nc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Nc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[26-Apr-2017 14:35:36 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Nc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Nc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[26-Apr-2017 15:01:40 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Nc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Nc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[26-Apr-2017 18:04:55 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[27-Apr-2017 08:05:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:295
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 295
+[27-Apr-2017 08:07:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:295
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 295
+[27-Apr-2017 08:09:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:295
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 295
+[27-Apr-2017 08:11:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:295
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 295
+[27-Apr-2017 08:14:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:295
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 295
+[27-Apr-2017 08:25:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:295
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 295
+[27-Apr-2017 08:25:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:295
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 295
+[27-Apr-2017 08:27:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:295
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 295
+[27-Apr-2017 14:41:13 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "sc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('sc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[27-Apr-2017 14:42:25 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "sc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('sc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[28-Apr-2017 05:49:29 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[28-Apr-2017 09:57:25 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php:443
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(271): StructType\ContractDocument2->setPGHomeState('')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php on line 443
+[28-Apr-2017 09:57:46 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php:443
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(271): StructType\ContractDocument2->setPGHomeState('')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php on line 443
+[28-Apr-2017 09:58:05 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php:443
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(271): StructType\ContractDocument2->setPGHomeState('')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php on line 443
+[28-Apr-2017 09:59:28 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php:443
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(271): StructType\ContractDocument2->setPGHomeState('')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php on line 443
+[28-Apr-2017 10:00:44 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php:443
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(271): StructType\ContractDocument2->setPGHomeState('')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php on line 443
+[28-Apr-2017 10:03:53 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php:443
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(271): StructType\ContractDocument2->setPGHomeState('')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php on line 443
+[28-Apr-2017 10:04:48 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php:443
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(271): StructType\ContractDocument2->setPGHomeState('')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php on line 443
+[28-Apr-2017 10:05:39 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php:443
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(271): StructType\ContractDocument2->setPGHomeState('')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument2.php on line 443
+[28-Apr-2017 17:57:16 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[28-Apr-2017 17:57:41 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[28-Apr-2017 18:01:36 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[28-Apr-2017 18:04:42 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[29-Apr-2017 04:29:52 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[29-Apr-2017 13:46:58 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[29-Apr-2017 13:48:17 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[29-Apr-2017 16:59:01 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[29-Apr-2017 16:59:31 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to createPersonalGuarantee() must be of the type array, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 28 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:144
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(28): createPersonalGuarantee(NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(86): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 144
+[01-May-2017 05:52:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:304
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 304
+[01-May-2017 06:04:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:304
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 304
+[01-May-2017 06:06:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:304
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 304
+[01-May-2017 06:06:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:304
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 304
+[01-May-2017 06:23:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:304
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 304
+[01-May-2017 06:26:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getCreateContract2Result() in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:304
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once()
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 304
+[01-May-2017 11:54:08 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[01-May-2017 11:55:36 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[01-May-2017 11:55:38 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[01-May-2017 12:15:53 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Sc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Sc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[01-May-2017 12:16:03 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Sc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Sc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[01-May-2017 12:16:30 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Sc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Sc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[01-May-2017 12:35:56 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to addPackage() must be of the type string, null given, called in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 47 and defined in /home2/sablrcrmpro/public_html/salesportal/e-contract.php:132
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(47): addPackage(NULL, NULL)
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/public_html/salesportal/e-contract.php on line 132
+[01-May-2017 15:07:18 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Sc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Sc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924
+[01-May-2017 15:07:25 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Value "Sc" is invalid, please use one of: AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, AS, DC, FM, GU, MH, MP, PW, PR, VI, AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, QC, SK, YT in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php:924
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/salesportal/e-contract.php(222): StructType\ContractDocument->setBillingState('Sc')
+#1 /home2/sablrcrmpro/public_html/salesportal/security-system.php(17): require_once('/home2/sablrcrm...')
+#2 {main}
+  thrown in /home2/sablrcrmpro/eContractApi/src/StructType/ContractDocument.php on line 924

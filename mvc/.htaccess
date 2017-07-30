@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteCond $1 !^(index\.php|(.*)\.swf|images|css|fonts|assets|js|robots\.txt|favicon\.ico)
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ index.php?/$1 [L]
+
+AddType 'text/html; charset=UTF-8' html
+
+</IfModule>
+
+  

@@ -1,0 +1,24 @@
+[30-Mar-2017 00:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'inc' not found in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php on line 12
+[30-Mar-2017 00:28:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'inc' not found in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php on line 35
+[30-Mar-2017 00:28:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'inc' not found in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php:48
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php on line 48
+[30-Mar-2017 00:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'inc' not found in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php on line 53
+[30-Mar-2017 00:58:31 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sandbox'@'localhost' (using password: YES) in /home2/sablrcrmpro/public_html/test/Address.Exercise/Database.inc.php on line 32
+[30-Mar-2017 00:58:31 America/New_York] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'sandbox'@'localhost' (using password: YES) in /home2/sablrcrmpro/public_html/test/Address.Exercise/Database.inc.php on line 35
+[30-Mar-2017 01:13:13 America/New_York] PHP Warning:  include(Address.inc): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php on line 14
+[30-Mar-2017 01:13:13 America/New_York] PHP Warning:  include(): Failed opening 'Address.inc' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php on line 14
+[30-Mar-2017 01:13:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Address' not found in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/test/Address.Exercise/demo.php on line 18

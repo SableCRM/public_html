@@ -1,0 +1,18 @@
+{
+    "name": "razaman2/creditcheck",
+    "type": "project",
+    "authors": [
+        {
+            "name": "razaman2",
+            "email": "razamvmt@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "credit\\":"app/credit"
+        }
+    },
+    "require-dev":{
+        "phpunit/phpunit":"*"
+    }
+}

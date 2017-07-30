@@ -1,0 +1,188 @@
+[03-Mar-2017 05:10:18 America/Chicago] PHP Fatal error:  Class 'Post' not found in /home2/sablrcrmpro/public_html/ADD_TWOWAY_DEVICE.php on line 9
+[03-Mar-2017 15:56:52 America/Chicago] PHP Fatal error:  Call to undefined method PDO::bindParam() in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 47
+[03-Mar-2017 15:57:47 America/Chicago] PHP Fatal error:  Call to undefined method PDO::bindParam() in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 47
+[03-Mar-2017 15:57:51 America/Chicago] PHP Fatal error:  Call to undefined method PDO::bindParam() in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 47
+[04-Mar-2017 01:36:53 America/Chicago] PHP Fatal error:  Call to undefined function NOW() in /home2/sablrcrmpro/public_html/SUPER_ADD_COMPANY.php on line 14
+[04-Mar-2017 05:33:35 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on null in /home2/sablrcrmpro/public_html/get-zones-from-database.php on line 20
+[04-Mar-2017 05:34:45 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on null in /home2/sablrcrmpro/public_html/get-zones-from-database.php on line 20
+[04-Mar-2017 05:35:29 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on null in /home2/sablrcrmpro/public_html/get-zones-from-database.php on line 20
+[04-Mar-2017 05:39:00 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on null in /home2/sablrcrmpro/public_html/get-zones-from-database.php on line 20
+[04-Mar-2017 05:41:02 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sablrcrmpro/public_html/get-zones-from-database.php on line 20
+[05-Mar-2017 07:09:41 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/sablrcrmpro/public_html/SUPER_ADD_COMPANY.php on line 23
+[05-Mar-2017 07:23:52 America/Chicago] PHP Fatal error:  Call to undefined function NOW() in /home2/sablrcrmpro/public_html/SUPER_ADD_COMPANY.php on line 12
+[05-Mar-2017 19:47:24 America/Chicago] PHP Warning:  require_once(../Integration/UPDATE_USER_INFORMATION.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:47:24 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../Integration/UPDATE_USER_INFORMATION.php' (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:48:37 America/Chicago] PHP Warning:  require_once(../UPDATE_USER_INFORMATION.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:48:37 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../UPDATE_USER_INFORMATION.php' (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:49:38 America/Chicago] PHP Warning:  require_once(http://www.sable-crm.com/UPDATE_USER_INFORMATION.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'http://www.sable-crm.com/UPDATE_USER_INFORMATION.php' (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:38 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:39 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:39 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:39 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:39 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:49:39 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Warning:  require_once(http://www.sable-crm.com/UPDATE_USER_INFORMATION.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'http://www.sable-crm.com/UPDATE_USER_INFORMATION.php' (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:08 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:09 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:09 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:09 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:09 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:09 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:09 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:09 America/Chicago] PHP Fatal error:  Call to undefined function Connection() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Warning:  require_once(http://www.sable-crm.com/UPDATE_USER_INFORMATION.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'http://www.sable-crm.com/UPDATE_USER_INFORMATION.php' (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:50:37 America/Chicago] PHP Fatal error:  Call to undefined function Connect() in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 16
+[05-Mar-2017 19:52:36 America/Chicago] PHP Warning:  require_once(../Integration/UPDATE_USER_INFORMATION.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[05-Mar-2017 19:52:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../Integration/UPDATE_USER_INFORMATION.php' (include_path='.:/opt/php56/lib/php') in /home2/sablrcrmpro/public_html/UPDATE_USER_INFORMATION.php on line 6
+[07-Mar-2017 13:10:33 America/Chicago] PHP Warning:  mail() expects parameter 3 to be string, array given in /home2/sablrcrmpro/public_html/ADD_TWOWAY_DEVICE.php on line 4
+[07-Mar-2017 13:10:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sablrcrmpro/public_html/ADD_TWOWAY_DEVICE.php:4) in /home2/sablrcrmpro/public_html/ADD_TWOWAY_DEVICE.php on line 5
+[07-Mar-2017 13:11:58 America/Chicago] PHP Warning:  mail() expects parameter 3 to be string, array given in /home2/sablrcrmpro/public_html/ADD_TWOWAY_DEVICE.php on line 8
+[14-Mar-2017 11:02:50 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/sablrcrmpro/public_html/SESSION-DESTROY.php on line 3
+[21-Mar-2017 15:39:28 America/New_York] PHP Warning:  require_once(../../Integration/DATABASE_CONNECTION.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/SUPER_ADD_COMPANY.php on line 28
+[21-Mar-2017 15:39:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../../Integration/DATABASE_CONNECTION.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/SUPER_ADD_COMPANY.php on line 28
+[24-Mar-2017 13:56:53 America/New_York] PHP Warning:  require_once(Integration/DATABASE_CONNECTION.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 3
+[24-Mar-2017 13:56:53 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Integration/DATABASE_CONNECTION.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 3
+[24-Mar-2017 13:59:45 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 37
+[24-Mar-2017 14:01:09 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 37
+[24-Mar-2017 15:05:04 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 41
+[24-Mar-2017 15:06:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 41
+[24-Mar-2017 15:07:54 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/SUPER_ADD_ADMIN.php on line 41
+[21-Apr-2017 04:11:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY' in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php:56
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php(56): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php on line 56
+[21-Apr-2017 04:13:39 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY' in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php:56
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php(56): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php on line 56
+[21-Apr-2017 04:13:49 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY' in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php:56
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php(56): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php on line 56
+[21-Apr-2017 04:27:09 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php:55
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php(55): PDOStatement->fetchAll(5)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php on line 55
+[21-Apr-2017 04:29:34 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php:55
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php(55): PDOStatement->fetchAll(5)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php on line 55
+[21-Apr-2017 05:46:23 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php:54
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php(54): PDOStatement->fetchAll(5)
+#1 {main}
+  thrown in /home2/sablrcrmpro/public_html/ADMIN_ADD_USER.php on line 54
+[30-Apr-2017 12:13:10 America/New_York] PHP Warning:  require_once(SableCRM+/vendor/autoload.php): failed to open stream: No such file or directory in /home2/sablrcrmpro/public_html/autoload_test.php on line 9
+[30-Apr-2017 12:13:10 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'SableCRM+/vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/autoload_test.php on line 9
+[30-Apr-2017 12:21:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sable\Users\AdminUser' not found in /home2/sablrcrmpro/public_html/autoload_test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/autoload_test.php on line 13
+[30-Apr-2017 12:22:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home2/sablrcrmpro/public_html/autoload_test.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/autoload_test.php on line 20
+[30-Apr-2017 12:23:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home2/sablrcrmpro/public_html/autoload_test.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/autoload_test.php on line 20
+[30-Apr-2017 12:23:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home2/sablrcrmpro/public_html/autoload_test.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/autoload_test.php on line 20
+[30-Apr-2017 12:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home2/sablrcrmpro/public_html/autoload_test.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/autoload_test.php on line 20
+[30-Apr-2017 12:26:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home2/sablrcrmpro/public_html/autoload_test.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/sablrcrmpro/public_html/autoload_test.php on line 20
+[30-Apr-2017 12:26:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sable\Database\PDO' not found in /home2/sablrcrmpro/SableCRM+/app/Sable/Database/Connection.php:19
+Stack trace:
+#0 /home2/sablrcrmpro/public_html/autoload_test.php(20): Sable\Database\Connection->__construct()
+#1 {main}
+  thrown in /home2/sablrcrmpro/SableCRM+/app/Sable/Database/Connection.php on line 19

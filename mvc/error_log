@@ -1,0 +1,1 @@
+[25-Apr-2017 10:21:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home2/sablrcrmpro/public_html/mvc/system/core/compat/mbstring.php' (include_path='.:/opt/php70/lib/php') in /home2/sablrcrmpro/public_html/mvc/system/core/CodeIgniter.php on line 287
